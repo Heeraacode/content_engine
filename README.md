@@ -70,7 +70,9 @@ This project runs in demo mode:
 
 Context
 - This project is inspired by public communication patterns at high-velocity startups, where teams often ship more updates than founders can reasonably communicate individually.
+- 
   <img width="603" height="625" alt="image" src="https://github.com/user-attachments/assets/a620b18c-c5c5-4ee8-ac10-e16a55254903" />
+  
 - It explores how release velocity and communication bandwidth can be reconciled through structured decision-making.
 
 Status
